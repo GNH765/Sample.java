@@ -1,11 +1,12 @@
-mport java.util.Arrays;  
+import java.util.Arrays;
 import java.util.Scanner;
-class Jw{
+class Countxy{
   public static void main(String[] args){
-    int Jwww[];
+    int Inputxy[];
 
 
-    Jww j1=new Jww();
+    Inputxy j1=new Inputxy();
     System.out.println("個数");
     j1.Input();
+}
 }
